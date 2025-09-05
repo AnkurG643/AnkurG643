@@ -208,6 +208,6 @@
 ---
 <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-*Thanks for visiting! ⭐ Star some repositories if you find them interesting!*
+*Thanks for visiting!! ⭐ Star some repositories if you find them interesting!*
 
 </div>
